@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Helvetica Neue Cyr';
+    src: local('Helvetica Neue Cyr Roman'), local('Helvetica-Neue-Cyr-Roman'), 
+    url('../fonts/Helvetica-Neue-Cyr/HelveticaNeueCyr-Roman.eot') format('embedded-opentype'),
+    url('../fonts/Helvetica-Neue-Cyr/HelveticaNeueCyr-Roman.woff') format('woff'),
+    url('../fonts/Helvetica-Neue-Cyr/HelveticaNeueCyr-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Cyr';
+    src: local('Helvetica Neue Cyr Bold'), local('Helvetica-Neue-Cyr-Bold'), 
+    url('../fonts/Helvetica-Neue-Cyr/HelveticaNeueCyr-Bold.eot') format('embedded-opentype'),
+    url('../fonts/Helvetica-Neue-Cyr/HelveticaNeueCyr-Bold.woff') format('woff'),
+    url('../fonts/Helvetica-Neue-Cyr/HelveticaNeueCyr-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
